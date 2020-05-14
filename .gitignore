@@ -21,6 +21,9 @@ media
 *.py[cod]
 *$py.class
 
+# VS code
+.vscode/
+
 # C extensions
 *.so
 
